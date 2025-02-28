@@ -1,10 +1,10 @@
 #### Welcome, glad to see you here on my page 👩🏻‍💻
 
-#### Research interests
+#### 💻 Research interests
 - Adversarial attacks and defenses
 - Explainable AI
   
-#### Information
+#### ☎️ Information
 - CV: [My CV](https://drive.google.com/file/d/1pb6tubcTdITLQoEsE4ejSBoDYLVahFR0/view?usp=sharing)
 - Email: yunseo.sonnie@gmail.com
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/yunseo-son-0bb630313/)
