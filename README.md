@@ -1,5 +1,5 @@
 #### 💻 Research interest
-  - Adversarial attacks and defense
+  - Adversarial attacks and defenses
   - Explainable AI
 #### ☎️ Information
   - Email: yunseo.sonnie@gmail.com
