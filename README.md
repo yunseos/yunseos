@@ -1,4 +1,4 @@
-#### Welcome, glad to see you here on my page 👩🏻‍💻
+#### Welcome, glad to see you here on my page.
 
 #### 💻 Research interests
 - Adversarial attacks and defenses
