@@ -1,8 +1,4 @@
 #### Welcome, glad to see you here on my page.
-
-#### 💻 Research interests
-- Adversarial attacks and defenses
-- Explainable AI
   
 #### ☎️ Information
 - CV: [My CV](https://drive.google.com/file/d/1pb6tubcTdITLQoEsE4ejSBoDYLVahFR0/view?usp=sharing)
